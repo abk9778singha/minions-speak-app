@@ -5,7 +5,7 @@ A translator app to convert your text from English to Minion speak or Banana lan
 
 ## Demo -
 
-You can view this app live here - [Demo](https://)
+You can view this app live here - [Demo](https://minions-speak-translator-9778.netlify.app/)
 
 ## Tech Stack -
 
